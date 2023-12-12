@@ -1,0 +1,2496 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700");
+@import url("https://api.fontshare.com/css?f[]=poppins@300,400,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800");
+@import url("https://api.fontshare.com/css?f[]=inter@400,500,600,700,800&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+.landing-page-bfbfnavbar-hero-abfwhy-us-margin-price-header-bfrectangle-17rectangle-17rectangle-17amargin-bftestimonials-cta-footer-aaa {
+  padding-top: 40px;
+  align-items: center;
+  flex-direction: column;
+  display: inline-flex;
+  row-gap: 80px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.landing-page-bfnavbar-hero-a {
+  display: flex;
+  flex-direction: column;
+  row-gap: 80px;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.landing-page-navbar {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 1);
+  font-weight: 600;
+  letter-spacing: 0px;
+}
+
+.landing-page-bfbfrectangle-3bfour-services-margin-about-margin-blog-news-margin-contact-margin-account-rectangle-5phone-aa2349067322844a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  column-gap: 6px;
+  align-items: center;
+}
+
+.landing-page-bfrectangle-3bfour-services-margin-about-margin-blog-news-margin-contact-margin-account-rectangle-5phone-aa {
+  display: flex;
+  align-self: stretch;
+  column-gap: 64px;
+  align-items: center;
+  font-size: 15px;
+  line-height: normal;
+}
+
+.landing-page-rectangle-3 {
+  display: flex;
+  height: 64px;
+  width: 96px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=22a9103a0f90c245e552b3c707fc1fbc871c2e6);
+  align-items: flex-start;
+}
+
+.landing-page-bfour-services-margin-about-margin-blog-news-margin-contact-margin-account-rectangle-5phone-a {
+  display: flex;
+  column-gap: 32px;
+  align-items: flex-end;
+}
+
+.landing-page-about {
+  padding-left: 112px;
+  align-items: center;
+  display: flex;
+  align-self: stretch;
+}
+
+.landing-page-blog-news {
+  padding-left: 4px;
+  align-items: center;
+  display: flex;
+  align-self: stretch;
+}
+
+.landing-page-contact {
+  padding-left: 4px;
+  align-items: center;
+  display: flex;
+  align-self: stretch;
+}
+
+.landing-page-account {
+  padding-left: 176px;
+  align-items: center;
+  display: flex;
+  align-self: stretch;
+}
+
+.landing-page-rectangle-5 {
+  display: flex;
+  height: 20px;
+  width: 1px;
+  background-color: rgba(212, 212, 212, 1);
+  align-items: flex-start;
+}
+
+.landing-page-phone {
+  display: flex;
+  height: 20px;
+  width: 20px;
+  align-items: flex-start;
+}
+
+.landing-page-component {
+  height: 44px;
+  width: 144px;
+  font-size: 16px;
+  line-height: 15px;
+}
+
+.landing-page-rectangle-4 {
+  display: flex;
+  position: absolute;
+  left: 160px;
+  bottom: 12px;
+  border-top-right-radius: 12px;
+  border-top-left-radius: 12px;
+  height: 2px;
+  width: 80px;
+  background-color: rgba(185, 28, 28, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+
+.landing-page-hero {
+  display: flex;
+  position: relative;
+  padding-right: 384px;
+  padding-bottom: 36px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-group-6 {
+  display: flex;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 384px;
+  width: 384px;
+  align-items: flex-start;
+}
+
+.landing-page-bfbread-crunch-premium-web-hosting-for-your-website-margin-blazing-fast-web-hosting-for-individuals-and-businesses-of-all-sizes-backed-by-24x-7x-365support-margin-bfbutton-button-aa {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 28px;
+  align-items: flex-start;
+}
+
+.landing-page-bfbfhosting-margin-domain-margin-seo-email-arectangle-6a {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 4px;
+  letter-spacing: 0px;
+  font-weight: 600;
+  line-height: normal;
+  font-size: 15px;
+  font-family: Poppins;
+}
+
+.landing-page-bfhosting-margin-domain-margin-seo-email-a {
+  display: flex;
+  align-self: stretch;
+  column-gap: 16px;
+  align-items: center;
+}
+
+.landing-page-hosting {
+  color: rgba(185, 28, 28, 1);
+}
+
+.landing-page-domain {
+  padding-left: 8px;
+  align-items: center;
+  display: flex;
+  color: rgba(212, 212, 212, 0.88);
+  align-self: stretch;
+}
+
+.landing-page-seo {
+  padding-left: 4px;
+  align-items: center;
+  display: flex;
+  color: rgba(212, 212, 212, 0.88);
+  align-self: stretch;
+}
+
+.landing-page-email {
+  color: rgba(212, 212, 212, 0.88);
+}
+
+.landing-page-rectangle-6 {
+  display: flex;
+  padding-right: 192px;
+  padding-left: 4px;
+  background-color: rgba(229, 229, 229, 1);
+  align-items: flex-start;
+}
+
+.landing-page-rectangle-7 {
+  display: flex;
+  height: 1px;
+  width: 48px;
+  background-color: rgba(185, 28, 28, 1);
+  align-items: flex-start;
+}
+
+.landing-page-premium-web-hosting-for-your-website {
+  width: 384px;
+  font-family: Poppins;
+  font-size: 64px;
+  color: rgba(38, 38, 38, 1);
+  line-height: 78px;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.landing-page-blazing-fast-web-hosting-for-individuals-and-businesses-of-all-sizes-backed-by-24x-7x-365support {
+  padding-top: 8px;
+  width: 384px;
+  line-height: 28px;
+  letter-spacing: 0.8px;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: Inter;
+  color: rgba(115, 115, 115, 1);
+}
+
+.landing-page-bfbutton-button-a {
+  padding-top: 36px;
+  align-items: center;
+  display: flex;
+  column-gap: 24px;
+  letter-spacing: 0px;
+  font-weight: 400;
+  line-height: 24px;
+  font-size: 14px;
+  font-family: Poppins;
+}
+
+.landing-page-create-an-account {
+  padding-top: 12px;
+  padding-right: 14px;
+  padding-left: 14px;
+  padding-bottom: 12px;
+  align-items: flex-start;
+  display: flex;
+  color: rgba(255, 255, 255, 1);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: rgba(185, 28, 28, 1);
+  align-self: stretch;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  filter: drop-shadow(0px 0px 32px rgba(176, 0, 0, 0.3));
+}
+
+.landing-page-choose-your-plan {
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  align-items: flex-start;
+  display: flex;
+  color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 1px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  align-self: stretch;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.landing-page-bfwhy-us-margin-price-header-bfrectangle-17rectangle-17rectangle-17amargin-bftestimonials-cta-footer-aa {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 80px;
+  align-items: center;
+  letter-spacing: 0px;
+}
+
+.landing-page-why-us {
+  display: flex;
+  position: relative;
+  padding-top: 320px;
+  padding-right: 56px;
+  padding-left: 44px;
+  align-items: flex-start;
+}
+
+.landing-page-bfuptime-ups-margin-ssl-margin-247a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  column-gap: 56px;
+  align-items: center;
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 1);
+  line-height: normal;
+}
+
+.landing-page-bficn-11margin-999uptime-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-a {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 4px;
+}
+
+.landing-page-icn-11 {
+  display: flex;
+  height: 96px;
+  width: 96px;
+  align-items: flex-start;
+}
+
+.landing-page-uptime {
+  padding-top: 8px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.landing-page-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 256px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.landing-page-bfframe-1margin-blazing-fast-web-hosting-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-a {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 4px;
+  align-self: stretch;
+}
+
+.landing-page-frame-1 {
+  display: flex;
+  height: 96px;
+  width: 96px;
+  align-items: flex-start;
+}
+
+.landing-page-blazing-fast-web-hosting {
+  padding-top: 14px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  font-weight: 700;
+  font-size: 20px;
+  align-self: stretch;
+}
+
+.landing-page-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-0 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 256px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.landing-page-ssl {
+  padding-right: 24px;
+  padding-left: 28px;
+  padding-bottom: 80px;
+  align-items: flex-start;
+  display: flex;
+  text-align: center;
+  align-self: stretch;
+  position: relative;
+}
+
+.landing-page-bficn-41free-ssl-certificates-a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: center;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.landing-page-icn-12 {
+  display: flex;
+  height: 96px;
+  width: 96px;
+  align-items: flex-start;
+}
+
+.landing-page-free-ssl-certificates {
+  display: flex;
+  justify-content: center;
+}
+
+.landing-page-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-1 {
+  display: flex;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  justify-content: center;
+  height: 80px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.landing-page-bfframe-2margin-24x-7friendly-support-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-a {
+  padding-left: 8px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 4px;
+  align-self: stretch;
+}
+
+.landing-page-frame-2 {
+  display: flex;
+  height: 96px;
+  width: 96px;
+  align-items: flex-start;
+}
+
+.landing-page-x7friendly-support {
+  padding-top: 14px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.landing-page-we-keep-your-web-build-online-24x-7x-365downtime-not-only-costs-you-lost-visitors-but-also-damages-your-reputation-and-search-engine-rankings-2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 256px;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.landing-page-bfcount-number-margin-true-cloud-web-hosting-all-of-the-hosting-packages-we-offer-are-deployed-instantly-on-our-ssd-powered-cloud-we-don-tuse-dedicated-servers-that-operate-on-single-pieces-of-hardware-our-entire-infrastructure-is-built-to-be-reliable-secure-and-scalable-a {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 288px;
+  width: 384px;
+  flex-direction: column;
+  align-items: center;
+  font-family: Inter;
+  color: rgba(24, 24, 27, 1);
+  text-align: left;
+}
+
+.landing-page-count-number {
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: 800;
+}
+
+.landing-page-margin-true-cloud-web-hosting-all-of-the-hosting-packages-we-offer-are-deployed-instantly-on-our-ssd-powered-cloud-we-don-tuse-dedicated-servers-that-operate-on-single-pieces-of-hardware-our-entire-infrastructure-is-built-to-be-reliable-secure-and-scalable {
+  display: flex;
+  justify-content: flex-end;
+  height: 208px;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-true-cloud-web-hosting-all-of-the-hosting-packages-we-offer-are-deployed-instantly-on-our-ssd-powered-cloud-we-don-tuse-dedicated-servers-that-operate-on-single-pieces-of-hardware-our-entire-infrastructure-is-built-to-be-reliable-secure-and-scalable {
+  height: 224px;
+  width: 384px;
+  margin-top: -9px;
+}
+
+.landing-page-bfbfcpanel_orange_rgb-1secured-by-imunify-360green-1margin-litespeed-logo-1abfrectangle-11rectangle-12margin-rectangle-13aa {
+  display: flex;
+  position: absolute;
+  top: 16px;
+  right: 0px;
+  height: 192px;
+  width: 384px;
+  flex-direction: column;
+  row-gap: 44px;
+  align-items: center;
+}
+
+.landing-page-bfcpanel_orange_rgb-1secured-by-imunify-360green-1margin-litespeed-logo-1a {
+  display: flex;
+  column-gap: 80px;
+  align-items: flex-start;
+}
+
+.landing-page-cpanel_orange_rgb1 {
+  display: flex;
+  height: 32px;
+  width: 144px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=34f2e1ca5cfbd82a546283bfa3cd84716c8278e);
+  align-items: flex-start;
+}
+
+.landing-page-secured-by-imunify-360green-1 {
+  display: flex;
+  height: 48px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=229b218a868fbe681467362354c3e64536a200);
+  align-items: flex-start;
+}
+
+.landing-page-bfgroup-vector-a {
+  padding-top: 1px;
+  padding-right: 4px;
+  padding-left: 28px;
+  padding-bottom: 1px;
+  align-items: center;
+  display: flex;
+  column-gap: 6px;
+  align-self: stretch;
+}
+
+.landing-page-group-7 {
+  display: flex;
+  height: 48px;
+  width: 24px;
+  align-items: flex-start;
+}
+
+.landing-page-vector {
+  height: 28px;
+  width: 96px;
+}
+
+.landing-page-bfrectangle-11rectangle-12margin-rectangle-13a {
+  display: flex;
+  align-self: stretch;
+  column-gap: 56px;
+  align-items: center;
+}
+
+.landing-page-rectangle-11 {
+  display: flex;
+  height: 96px;
+  width: 176px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/909ad74e0c35be25613d26962292b35fcc34f64a.webp);
+  align-items: flex-start;
+}
+
+.landing-page-rectangle-12 {
+  display: flex;
+  height: 56px;
+  width: 176px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=4fab9aefa90340b5c455bf4e7bea348b15302c7);
+  align-items: flex-start;
+}
+
+.landing-page-margin-rectangle-13 {
+  display: flex;
+  padding-left: 24px;
+  align-items: center;
+}
+
+.landing-page-rectangle-13 {
+  display: flex;
+  height: 48px;
+  width: 144px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/467dd73fafd39ed92be9b3b73096b7280d3f9589.webp);
+  align-items: flex-start;
+}
+
+.landing-page-group-1 {
+  padding-top: 208px;
+  padding-right: 128px;
+  padding-left: 160px;
+  padding-bottom: 10px;
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 1);
+  text-align: center;
+}
+
+.landing-page-ready-to-get-started-with-lemon-wares {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  right: 80px;
+  justify-content: center;
+  height: 128px;
+  width: 384px;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 600;
+}
+
+.landing-page-bfchoose-the-package-that-suits-you-bfbasic-premium-aa {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 176px;
+  align-items: center;
+}
+
+.landing-page-choose-the-package-that-suits-you {
+  display: flex;
+  justify-content: center;
+  width: 384px;
+  font-size: 25px;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.landing-page-bfbasic-premium-a {
+  display: flex;
+  align-self: stretch;
+  column-gap: 320px;
+  align-items: center;
+  font-size: 30px;
+  line-height: 40px;
+  font-weight: 600;
+}
+
+.landing-page-basic {
+  display: flex;
+  justify-content: center;
+}
+
+.landing-page-premium {
+  display: flex;
+  justify-content: center;
+}
+
+.landing-page-bfmonthly-margin-rectangle-14margin-yearly-rectangle-15a {
+  display: flex;
+  position: absolute;
+  right: 160px;
+  bottom: 128px;
+  height: 48px;
+  width: 384px;
+  column-gap: 16px;
+  align-items: center;
+}
+
+.landing-page-monthly {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  line-height: 25px;
+  font-weight: 400;
+}
+
+.landing-page-margin-rectangle-14 {
+  display: flex;
+  padding-left: 14px;
+  align-self: stretch;
+  align-items: center;
+}
+
+.landing-page-ellipse-1 {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 56px;
+  padding-left: 10px;
+  height: 48px;
+  width: 96px;
+  background-color: rgba(185, 28, 28, 1);
+  border-top-right-radius: 73px;
+  border-top-left-radius: 73px;
+  border-bottom-right-radius: 73px;
+  border-bottom-left-radius: 73px;
+}
+
+.landing-page-yearly {
+  padding-left: 10px;
+  justify-content: center;
+  display: flex;
+  font-weight: 400;
+  line-height: 25px;
+  font-size: 25px;
+}
+
+.landing-page-discount {
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  justify-content: center;
+  display: flex;
+  font-weight: 500;
+  line-height: 9px;
+  font-size: 10px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: rgba(253, 230, 138, 1);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.landing-page-rectangle-16 {
+  display: flex;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  padding-right: 384px;
+  height: 4px;
+  background-color: rgba(212, 212, 212, 1);
+  align-items: flex-start;
+}
+
+.landing-page-rectangle-20 {
+  display: flex;
+  height: 4px;
+  width: 384px;
+  background-color: rgba(185, 28, 28, 1);
+  align-items: flex-start;
+}
+
+.landing-page-bfrectangle-17rectangle-17rectangle-17a {
+  display: flex;
+  column-gap: 96px;
+  align-items: center;
+}
+
+.landing-page-rectangle-17 {
+  display: flex;
+  position: relative;
+  box-shadow: inset 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+  padding-top: 32px;
+  padding-left: 32px;
+  padding-bottom: 48px;
+  align-self: stretch;
+  width: 288px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-width: 1.5px;
+  border-color: rgba(212, 212, 212, 1);
+  border-style: solid;
+}
+
+.landing-page-bfstarter-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-margin-280margin-rectangle-21margin-bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-vector-checkmark-abf2gb-ssd-10gb-bandwidth-15email-accounts-unlimited-database-4subdomains-1parked-domain-2websites-free-ssl-softaculous-aaa {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 12px;
+  margin-right: -40px;
+  align-items: flex-start;
+}
+
+.landing-page-starter {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 28px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 25px;
+  font-weight: 600;
+}
+
+.landing-page-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard {
+  width: 240px;
+  text-align: left;
+  font-family: Poppins;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.landing-page-component-0 {
+  padding-top: 16px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  font-weight: 600;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 42px;
+  font-family: Poppins;
+  text-align: left;
+}
+
+.landing-page-margin-rectangle-21 {
+  display: flex;
+  padding-top: 48px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+  font-weight: 600;
+}
+
+.landing-page-choose-this-plan {
+  padding-top: 8px;
+  padding-right: 56px;
+  padding-left: 56px;
+  padding-bottom: 8px;
+  justify-content: center;
+  display: flex;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.landing-page-bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-abf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-aa {
+  padding-top: 24px;
+  align-items: center;
+  display: flex;
+  column-gap: 24px;
+  line-height: 24px;
+  color: rgba(115, 115, 115, 1);
+  font-size: 16px;
+  font-family: Inter;
+  text-align: left;
+  align-self: stretch;
+}
+
+.landing-page-bfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-a {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: center;
+}
+
+.landing-page-checkmark {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-1 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-2 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-3 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-4 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-5 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-6 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-vector-1 {
+  padding-top: 10px;
+  height: 24px;
+  width: 16px;
+}
+
+.landing-page-margin-checkmark {
+  display: flex;
+  padding-top: 4px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-checkmark-7 {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  align-items: flex-start;
+}
+
+.landing-page-bf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-a {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.landing-page-gb-ssd {
+  width: 256px;
+  font-weight: 700;
+}
+
+.landing-page-margin-10gb-bandwidth {
+  display: flex;
+  justify-content: flex-end;
+  height: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-gb-bandwidth {
+  width: 256px;
+  margin-top: -9px;
+}
+
+.landing-page-margin-15email-accounts {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-email-accounts {
+  width: 256px;
+}
+
+.landing-page-unlimited-database {
+  padding-top: 16px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+}
+
+.landing-page-margin-4subdomains {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-subdomains {
+  width: 256px;
+}
+
+.landing-page-margin-1parked-domain {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-parked-domain {
+  width: 256px;
+}
+
+.landing-page-margin-2websites {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-websites {
+  width: 256px;
+}
+
+.landing-page-free-ssl {
+  padding-top: 20px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-softaculous {
+  padding-top: 16px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-per-month {
+  display: flex;
+  position: absolute;
+  top: 192px;
+  left: 40px;
+  justify-content: center;
+  text-align: center;
+  height: 14px;
+  width: 80px;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 14px;
+  font-weight: 300;
+}
+
+.landing-page-rectangle {
+  display: flex;
+  position: relative;
+  box-shadow: inset 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+  padding-top: 32px;
+  padding-left: 36px;
+  padding-bottom: 48px;
+  align-self: stretch;
+  width: 288px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-width: 1.5px;
+  border-color: rgba(212, 212, 212, 1);
+  border-style: solid;
+}
+
+.landing-page-bfstandard-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-margin-420margin-rectangle-21margin-bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-vector-checkmark-abf2gb-ssd-10gb-bandwidth-15email-accounts-unlimited-database-4subdomains-1parked-domain-2websites-free-ssl-softaculous-aaa {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 12px;
+  margin-right: -40px;
+  align-items: flex-start;
+}
+
+.landing-page-standard {
+  font-family: Poppins;
+  font-size: 28px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 25px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.landing-page-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-0 {
+  width: 240px;
+  font-family: Poppins;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 18px;
+  font-weight: 400;
+  text-align: left;
+}
+
+.landing-page-component-1 {
+  padding-top: 16px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  text-align: left;
+  font-weight: 600;
+  line-height: 32px;
+  color: rgba(0, 0, 0, 1);
+  font-size: 42px;
+  font-family: Poppins;
+}
+
+.landing-page-margin-rectangle {
+  display: flex;
+  padding-top: 48px;
+  flex-direction: column;
+  align-items: center;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.landing-page-choose-this-plan-0 {
+  padding-top: 8px;
+  padding-right: 56px;
+  padding-left: 56px;
+  padding-bottom: 8px;
+  justify-content: center;
+  display: flex;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.landing-page-bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-abf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-aa0 {
+  padding-top: 24px;
+  align-items: center;
+  display: flex;
+  column-gap: 24px;
+  text-align: left;
+  line-height: 24px;
+  color: rgba(115, 115, 115, 1);
+  font-size: 16px;
+  font-family: Inter;
+  align-self: stretch;
+}
+
+.landing-page-bfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-a0 {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: center;
+}
+
+.landing-page-checkmark-8 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-9 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-10 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-11 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-12 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-13 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-14 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-vector-2 {
+  padding-top: 10px;
+  height: 24px;
+  width: 16px;
+}
+
+.landing-page-margin-checkmark-0 {
+  display: flex;
+  padding-top: 4px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-checkmark-15 {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  align-items: flex-start;
+}
+
+.landing-page-bf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-a0 {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.landing-page-gb-ssd-0 {
+  width: 256px;
+  font-weight: 700;
+}
+
+.landing-page-margin-10gb-bandwidth-0 {
+  display: flex;
+  justify-content: flex-end;
+  height: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-gb-bandwidth-0 {
+  width: 256px;
+  margin-top: -9px;
+}
+
+.landing-page-margin-15email-accounts-0 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-email-accounts-0 {
+  width: 256px;
+}
+
+.landing-page-unlimited-database-0 {
+  padding-top: 16px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+}
+
+.landing-page-margin-4subdomains-0 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-subdomains-0 {
+  width: 256px;
+}
+
+.landing-page-margin-1parked-domain-0 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-parked-domain-0 {
+  width: 256px;
+}
+
+.landing-page-margin-2websites-0 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-websites-0 {
+  width: 256px;
+}
+
+.landing-page-free-ssl-0 {
+  padding-top: 20px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-softaculous-0 {
+  padding-top: 16px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-per-month-0 {
+  display: flex;
+  position: absolute;
+  top: 192px;
+  left: 40px;
+  justify-content: center;
+  text-align: center;
+  height: 14px;
+  width: 80px;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 14px;
+  font-weight: 300;
+}
+
+.landing-page-rectangle-0 {
+  display: flex;
+  position: relative;
+  box-shadow: inset 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+  padding-top: 32px;
+  padding-left: 32px;
+  padding-bottom: 48px;
+  align-self: stretch;
+  width: 288px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+  border-width: 1.5px;
+  border-color: rgba(212, 212, 212, 1);
+  border-style: solid;
+}
+
+.landing-page-bfbfsuprem-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-amargin-rectangle-21bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-abf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-aaa {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 36px;
+  margin-right: -40px;
+  align-items: flex-start;
+}
+
+.landing-page-bfsuprem-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-a {
+  display: flex;
+  flex-direction: column;
+  row-gap: 12px;
+  align-items: flex-start;
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 1);
+  text-align: left;
+}
+
+.landing-page-suprem {
+  font-size: 28px;
+  line-height: 25px;
+  font-weight: 600;
+}
+
+.landing-page-with-all-your-customers-via-all-conversation-channels-in-one-central-dashboard-1 {
+  width: 240px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 400;
+}
+
+.landing-page-margin-rectangle-0 {
+  display: flex;
+  padding-top: 80px;
+  flex-direction: column;
+  align-items: center;
+  font-family: Poppins;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.landing-page-choose-this-plan-1 {
+  padding-top: 8px;
+  padding-right: 56px;
+  padding-left: 56px;
+  padding-bottom: 8px;
+  justify-content: center;
+  display: flex;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 1);
+  border-width: 2px;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+.landing-page-bfbfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-abf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-aa1 {
+  display: flex;
+  align-self: stretch;
+  column-gap: 24px;
+  align-items: center;
+  font-family: Inter;
+  font-size: 16px;
+  color: rgba(115, 115, 115, 1);
+  line-height: 24px;
+  text-align: left;
+}
+
+.landing-page-bfcheckmark-checkmark-checkmark-checkmark-checkmark-checkmark-checkmark-margin-vector-margin-checkmark-a1 {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 16px;
+  align-items: center;
+}
+
+.landing-page-checkmark-16 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-17 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-18 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-19 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-20 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-21 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-checkmark-22 {
+  display: flex;
+  height: 24px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-vector-3 {
+  padding-top: 10px;
+  height: 24px;
+  width: 16px;
+}
+
+.landing-page-margin-checkmark-1 {
+  display: flex;
+  padding-top: 4px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-checkmark-23 {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  align-items: flex-start;
+}
+
+.landing-page-bf2gb-ssd-margin-10gb-bandwidth-margin-15email-accounts-margin-unlimited-database-margin-4subdomains-margin-1parked-domain-margin-2websites-margin-free-ssl-margin-softaculous-a1 {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.landing-page-gb-ssd-1 {
+  width: 256px;
+  font-weight: 700;
+}
+
+.landing-page-margin-10gb-bandwidth-1 {
+  display: flex;
+  justify-content: flex-end;
+  height: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-gb-bandwidth-1 {
+  width: 256px;
+  margin-top: -9px;
+}
+
+.landing-page-margin-15email-accounts-1 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-email-accounts-1 {
+  width: 256px;
+}
+
+.landing-page-unlimited-database-1 {
+  padding-top: 16px;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  font-weight: 700;
+}
+
+.landing-page-margin-4subdomains-1 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-subdomains-1 {
+  width: 256px;
+}
+
+.landing-page-margin-1parked-domain-1 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-parked-domain-1 {
+  width: 256px;
+}
+
+.landing-page-margin-2websites-1 {
+  display: flex;
+  padding-top: 16px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+}
+
+.landing-page-websites-1 {
+  width: 256px;
+}
+
+.landing-page-free-ssl-1 {
+  padding-top: 20px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-softaculous-1 {
+  padding-top: 16px;
+  width: 224px;
+  font-weight: 600;
+}
+
+.landing-page-bf700per-month-a {
+  display: flex;
+  position: absolute;
+  top: 144px;
+  left: 40px;
+  height: 56px;
+  width: 112px;
+  flex-direction: column;
+  row-gap: 12px;
+  align-items: flex-start;
+  font-family: Poppins;
+  color: rgba(0, 0, 0, 1);
+}
+
+.landing-page-component-2 {
+  font-size: 42px;
+  line-height: 32px;
+  font-weight: 600;
+  text-align: left;
+}
+
+.landing-page-per-month-1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 14px;
+  line-height: 14px;
+  font-weight: 300;
+}
+
+.landing-page-bftestimonials-cta-margin-footer-a {
+  padding-top: 20px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 112px;
+  align-self: stretch;
+}
+
+.landing-page-group-5 {
+  padding-right: 112px;
+  padding-left: 64px;
+  padding-bottom: 320px;
+  align-items: flex-start;
+  display: flex;
+  text-align: left;
+  font-family: Inter;
+  position: relative;
+}
+
+.landing-page-group-3 {
+  display: flex;
+  position: relative;
+  padding-top: 56px;
+  padding-right: 384px;
+  padding-left: 96px;
+  padding-bottom: 36px;
+  align-self: stretch;
+  align-items: flex-start;
+}
+
+.landing-page-quote-mark {
+  display: flex;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0.3;
+  height: 128px;
+  width: 144px;
+  align-items: flex-start;
+}
+
+.landing-page-bftestimonial-1testimonial-2a {
+  display: flex;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  row-gap: 32px;
+  align-items: flex-start;
+}
+
+.landing-page-testimonial-1 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(0px 10px 10px rgba(41, 41, 42, 0.07));
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  padding-top: 112px;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-bottom: 14px;
+  align-self: stretch;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.landing-page-bfquote-mark-feedback-person-details-a {
+  align-items: flex-start;
+  display: flex;
+  column-gap: 16px;
+  align-self: stretch;
+  position: relative;
+}
+
+.landing-page-quote-mark-0 {
+  display: flex;
+  opacity: 0.3;
+  align-items: flex-start;
+}
+
+.landing-page-page-1 {
+  display: flex;
+  height: 14px;
+  width: 16px;
+  align-items: flex-start;
+}
+
+.landing-page-bffeedback-person-details-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+  align-self: stretch;
+}
+
+.landing-page-feedback {
+  width: 320px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-person-details {
+  align-items: flex-start;
+  display: flex;
+  width: 112px;
+}
+
+.landing-page-bfjane-cooper-ceo-jpnl-a {
+  display: flex;
+  flex-direction: column;
+  margin-right: -3px;
+  align-items: flex-start;
+}
+
+.landing-page-jane-cooper {
+  font-size: 18px;
+  color: rgba(24, 24, 27, 1);
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.landing-page-ceojpnl {
+  font-size: 14px;
+  color: rgba(156, 163, 175, 1);
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.landing-page-jerry-piping-bw-oyl-3forlrwur-6778abi-56lm-69f-24r-157w-64c-9y-75z-42 {
+  display: flex;
+  position: absolute;
+  top: 40px;
+  left: 64px;
+  height: 48px;
+  width: 80px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/1c29c3c351553cdf8e83b5a4d6a2ba3d41c262e4.webp);
+  align-items: flex-start;
+}
+
+.landing-page-testimonial-2 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(0px 10px 10px rgba(41, 41, 42, 0.07));
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  padding-top: 112px;
+  padding-right: 32px;
+  padding-left: 32px;
+  padding-bottom: 32px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.landing-page-bfquote-mark-feedback-person-details-a0 {
+  align-items: flex-start;
+  display: flex;
+  column-gap: 16px;
+  align-self: stretch;
+  position: relative;
+}
+
+.landing-page-quote-mark-1 {
+  display: flex;
+  opacity: 0.3;
+  align-items: flex-start;
+}
+
+.landing-page-page-2 {
+  display: flex;
+  height: 14px;
+  width: 16px;
+  align-items: flex-start;
+}
+
+.landing-page-bffeedback-person-details-a0 {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+  align-self: stretch;
+}
+
+.landing-page-feedback-0 {
+  width: 256px;
+  font-size: 18px;
+  color: rgba(24, 24, 27, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-bfkristin-watson-co-founder-leeveon-branding-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+}
+
+.landing-page-kristin-watson {
+  font-size: 18px;
+  color: rgba(24, 24, 27, 1);
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.landing-page-co-founder-leeveon-branding {
+  font-size: 14px;
+  color: rgba(156, 163, 175, 1);
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.landing-page-leeve-on-branding-bw-oyl-3fl-090kplvrcow-9vmwmkbvvknw-8qajniecucqo-02 {
+  display: flex;
+  position: absolute;
+  top: 40px;
+  left: 56px;
+  height: 64px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=39548b94138baca68903f77274ef68bcb9da3e5);
+  align-items: flex-start;
+}
+
+.landing-page-bfsection-heading-testimonial-3a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  row-gap: 24px;
+  align-items: flex-end;
+}
+
+.landing-page-bfsection-heading-description-a {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 8px;
+  color: rgba(24, 24, 27, 1);
+  align-self: stretch;
+}
+
+.landing-page-section-heading {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: 800;
+}
+
+.landing-page-section-title {
+  width: 384px;
+}
+
+.landing-page-description {
+  align-self: stretch;
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-testimonial-3 {
+  display: flex;
+  position: relative;
+  filter: drop-shadow(0px 10px 10px rgba(41, 41, 42, 0.07));
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  padding-top: 8px;
+  padding-right: 32px;
+  padding-left: 64px;
+  padding-bottom: 96px;
+  background-color: rgba(255, 255, 255, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.landing-page-quote-mark-2 {
+  display: flex;
+  position: absolute;
+  top: 96px;
+  left: 32px;
+  opacity: 0.3;
+  height: 14px;
+  width: 16px;
+  align-items: flex-start;
+}
+
+.landing-page-page-3 {
+  display: flex;
+  height: 14px;
+  width: 16px;
+  align-items: flex-start;
+}
+
+.landing-page-bfcrypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-682margin-feedback-margin-person-details-a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.landing-page-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-682 {
+  display: flex;
+  height: 128px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/29dc574d7b4303cc8412063d68fb8273a14324be.webp);
+  align-items: flex-start;
+}
+
+.landing-page-margin-feedback {
+  display: flex;
+  justify-content: flex-end;
+  height: 176px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-feedback-1 {
+  width: 256px;
+  margin-top: -23px;
+}
+
+.landing-page-bffloyd-miles-vice-president-cli-a {
+  padding-top: 24px;
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+}
+
+.landing-page-floyd-miles {
+  font-size: 18px;
+  color: rgba(24, 24, 27, 1);
+  line-height: 28px;
+  font-weight: 700;
+}
+
+.landing-page-vice-president-cli {
+  font-size: 14px;
+  color: rgba(156, 163, 175, 1);
+  line-height: 24px;
+  font-weight: 500;
+}
+
+.landing-page-bfsection-heading-bfbfjerry-piping-bw-oyl-3forlrwur-6778abi-56lm-69f-24r-157w-64c-9y-75z-41leeveon-branding-bw-oyl-3fl-090kplvrcow-9vmwmkbvvknw-8qajniecucqo-01abfkorane-scents-bw-oyl-3fj-4kmwn-18jff-792drn-1ep-3txguitve-7feafj-0g-1margin-jrango-glasses-bw-oyl-3fi-6qg-2lqwxgscqnr-759y-3pyk-95f-3j-9jxx-0gx-6o-1abfnadine-ghaida-bw-oyl-3fly-37eqw-7dbbqsa-9h-4bsh-9g-13xu-0vs-5vu-4bchs-1margin-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-681aaa {
+  align-items: center;
+  display: flex;
+  column-gap: 256px;
+  color: rgba(24, 24, 27, 1);
+  height: 240px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+}
+
+.landing-page-bfsection-heading-description-a0 {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 8px;
+}
+
+.landing-page-section-heading-0 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  font-size: 48px;
+  line-height: 64px;
+  font-weight: 800;
+}
+
+.landing-page-section-title-0 {
+  width: 384px;
+}
+
+.landing-page-description-0 {
+  width: 384px;
+  font-size: 18px;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-bfbfjerry-piping-bw-oyl-3forlrwur-6778abi-56lm-69f-24r-157w-64c-9y-75z-41leeveon-branding-bw-oyl-3fl-090kplvrcow-9vmwmkbvvknw-8qajniecucqo-01abfkorane-scents-bw-oyl-3fj-4kmwn-18jff-792drn-1ep-3txguitve-7feafj-0g-1margin-jrango-glasses-bw-oyl-3fi-6qg-2lqwxgscqnr-759y-3pyk-95f-3j-9jxx-0gx-6o-1abfnadine-ghaida-bw-oyl-3fly-37eqw-7dbbqsa-9h-4bsh-9g-13xu-0vs-5vu-4bchs-1margin-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-681aa {
+  display: flex;
+  align-self: stretch;
+  column-gap: 64px;
+  align-items: flex-end;
+}
+
+.landing-page-bfjerry-piping-bw-oyl-3forlrwur-6778abi-56lm-69f-24r-157w-64c-9y-75z-41leeveon-branding-bw-oyl-3fl-090kplvrcow-9vmwmkbvvknw-8qajniecucqo-01a {
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-jerry-piping-bw-oyl-3forlrwur-6778abi-56lm-69f-24r-157w-64c-9y-75z-41 {
+  display: flex;
+  height: 128px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/1c29c3c351553cdf8e83b5a4d6a2ba3d41c262e4.webp);
+  align-items: flex-start;
+}
+
+.landing-page-leeve-on-branding-bw-oyl-3fl-090kplvrcow-9vmwmkbvvknw-8qajniecucqo-01 {
+  display: flex;
+  height: 128px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=39548b94138baca68903f77274ef68bcb9da3e5);
+  align-items: flex-start;
+}
+
+.landing-page-bfkorane-scents-bw-oyl-3fj-4kmwn-18jff-792drn-1ep-3txguitve-7feafj-0g-1margin-jrango-glasses-bw-oyl-3fi-6qg-2lqwxgscqnr-759y-3pyk-95f-3j-9jxx-0gx-6o-1a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-korane-scents-bw-oyl-3fj-4kmwn-18jff-792drn-1ep-3txguitve-7feafj-0g-1 {
+  display: flex;
+  height: 128px;
+  align-self: stretch;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=4b3f78893e4d6fea32552de9bd7181d59a86d53);
+  align-items: flex-start;
+}
+
+.landing-page-margin-jrango-glasses-bw-oyl-3fi-6qg-2lqwxgscqnr-759y-3pyk-95f-3j-9jxx-0gx-6o-1 {
+  display: flex;
+  justify-content: flex-end;
+  height: 112px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-jrango-glasses-bw-oyl-3fi-6qg-2lqwxgscqnr-759y-3pyk-95f-3j-9jxx-0gx-6o-1 {
+  display: flex;
+  height: 128px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=3848919e429279001904996350c7962b20c34cc);
+  margin-top: -10px;
+  align-items: flex-start;
+}
+
+.landing-page-bfnadine-ghaida-bw-oyl-3fly-37eqw-7dbbqsa-9h-4bsh-9g-13xu-0vs-5vu-4bchs-1margin-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-681a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-nadine-ghaida-bw-oyl-3fly-37eqw-7dbbqsa-9h-4bsh-9g-13xu-0vs-5vu-4bchs-1 {
+  display: flex;
+  height: 128px;
+  align-self: stretch;
+  background-size: cover;
+  background-position: center;
+  background-image: url(FLAG_REPLACE_CONTENT_FLAG=IMG=5086eb944df6099c10d139dfd8465c3e58aa0b);
+  align-items: flex-start;
+}
+
+.landing-page-margin-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-681 {
+  display: flex;
+  justify-content: flex-end;
+  height: 112px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-crypto-learn-invest-bw-oyl-3g-9g-1y-9n-29md-6xkfxpgebbw-87gdfbb-0h-0u-1ci-681 {
+  display: flex;
+  height: 128px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/29dc574d7b4303cc8412063d68fb8273a14324be.webp);
+  margin-top: -9px;
+  align-items: flex-start;
+}
+
+.landing-page-bfbackground-margin-elements-a {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  font-family: Poppins;
+}
+
+.landing-page-background {
+  display: flex;
+  border-top-right-radius: 16px;
+  border-top-left-radius: 16px;
+  height: 384px;
+  width: 1232px;
+  background-color: rgba(248, 250, 252, 1);
+  align-items: flex-start;
+  border-bottom-right-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.landing-page-margin-elements {
+  display: flex;
+  justify-content: flex-end;
+  height: -40px;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-bfwe-re-here-to-make-your-website-awesome-button-a {
+  margin-top: -432px;
+  padding-top: 80px;
+  padding-right: 112px;
+  padding-left: 128px;
+  padding-bottom: 48px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  row-gap: 40px;
+  background-position: center;
+  background-size: cover;
+  background-image: url("/assets/Elements.svg");
+}
+
+.landing-page-we-re-here-to-make-your-website-awesome {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 1024px;
+  font-size: 64px;
+  color: rgba(38, 38, 38, 1);
+  line-height: 88px;
+  font-weight: 600;
+}
+
+.landing-page-bfwhatsapp-get-in-touch-with-us-a {
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-bottom: 12px;
+  align-items: center;
+  display: flex;
+  column-gap: 10px;
+  font-weight: 400;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 14px;
+  text-align: left;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  background-color: rgba(185, 28, 28, 1);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.landing-page-whatsapp {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  align-items: flex-start;
+}
+
+.landing-page-footer {
+  padding-top: 4px;
+  align-items: flex-start;
+  display: flex;
+  text-align: left;
+  font-size: 16px;
+  font-family: Inter;
+  align-self: stretch;
+}
+
+.landing-page-background-0 {
+  display: flex;
+  position: relative;
+  padding-top: 80px;
+  padding-right: 112px;
+  padding-left: 384px;
+  padding-bottom: 208px;
+  background-color: rgba(185, 28, 28, 1);
+  align-items: flex-start;
+}
+
+.landing-page-bflemon-wares-white-logo-1500px-wide-1margin-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam-purus-sit-amet-luctus-venenatis-lectus-magna-fringilla-urna-porttitor-rhoncus-dolor-purus-non-enim-praesent-elem-margin-dummy-logo-02margin-bfbuilt-by-jeremiah-with-love-in-lagos-copyright-2021heart-aa {
+  display: flex;
+  position: absolute;
+  top: 64px;
+  left: 96px;
+  height: 384px;
+  width: 384px;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-lemon-wares-white-logo-1500px-wide-1 {
+  display: flex;
+  height: 80px;
+  width: 128px;
+  background-size: cover;
+  background-position: center;
+  background-image: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/85097d4a0a414e9b2aebf27f0fc1ffffcae684af.webp);
+  align-items: flex-start;
+}
+
+.landing-page-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-ut-aliquam-purus-sit-amet-luctus-venenatis-lectus-magna-fringilla-urna-porttitor-rhoncus-dolor-purus-non-enim-praesent-elem {
+  padding-top: 24px;
+  width: 288px;
+  color: rgba(229, 229, 229, 1);
+}
+
+.landing-page-margin-dummy-logo-02 {
+  display: flex;
+  justify-content: flex-end;
+  height: -8px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing-page-dummy-logo-02 {
+  display: flex;
+  height: 56px;
+  width: 144px;
+  margin-top: -64px;
+  align-items: flex-start;
+}
+
+.landing-page-bfbuilt-by-jeremiah-with-love-in-lagos-copyright-2021margin-heart-a {
+  padding-top: 112px;
+  align-items: center;
+  display: flex;
+  color: rgba(255, 255, 255, 1);
+  align-self: stretch;
+}
+
+.landing-page-built-by-jeremiah-with-love-in-lagos-copyright-2021 {
+  width: 384px;
+}
+
+.landing-page-margin-heart {
+  display: flex;
+  justify-content: flex-end;
+  width: -202px;
+  align-items: center;
+}
+
+.landing-page-heart {
+  display: flex;
+  height: 24px;
+  width: 24px;
+  margin-left: -226px;
+  align-items: flex-start;
+}
+
+.landing-page-bfsection-2section-3section-4section-5a {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  column-gap: 128px;
+  align-items: flex-start;
+}
+
+.landing-page-bfservice-domain-shared-hosting-cloud-hosting-private-hosting-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+  align-self: stretch;
+}
+
+.landing-page-service {
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.landing-page-domain-0 {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-shared-hosting {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-cloud-hosting {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-private-hosting {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-bfhosting-cheap-hosting-hosting-wordpress-email-hosting-hosting-unlimited-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+  align-self: stretch;
+}
+
+.landing-page-hosting-0 {
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.landing-page-cheap-hosting {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-hosting-wordpress {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-email-hosting {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-hosting-unlimited {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-bfcompany-about-career-contact-us-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+}
+
+.landing-page-company {
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.landing-page-about-0 {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-career {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-contact-us {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-bfhelp-faq-help-support-a {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  row-gap: 24px;
+}
+
+.landing-page-help {
+  color: rgba(255, 255, 255, 1);
+  line-height: 24px;
+  font-weight: 700;
+}
+
+.landing-page-faq {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.landing-page-help-support {
+  color: rgba(229, 229, 229, 1);
+  line-height: 32px;
+  font-weight: 400;
+}
